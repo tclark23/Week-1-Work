@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 - Adding to my repo
 
 # Setting up the editor
 library(tidyverse)
